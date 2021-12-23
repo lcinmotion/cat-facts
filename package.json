@@ -1,0 +1,22 @@
+{
+  "name": "cat-facts",
+  "version": "1.0.0",
+  "description": "Random cat facts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcinmotion/cat-facts.git"
+  },
+  "keywords": [
+    "cats"
+  ],
+  "author": "Lauren Church",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcinmotion/cat-facts/issues"
+  },
+  "homepage": "https://github.com/lcinmotion/cat-facts#readme"
+}
